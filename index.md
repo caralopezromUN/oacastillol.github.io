@@ -14,6 +14,7 @@ Contacto: [Telegram](https://t.me/oacastillol)
 
 ### Proyectos
 
+- *botTelegram:* bot integrado con el API de Telegram, desarrollado en Python cuyo proposito es gestionar la administración de un grupo en Telegram. [Github](https://github.com/oacastillol/UsimteBot)
 
 
 ### Lenguajes Usados
@@ -21,3 +22,4 @@ Contacto: [Telegram](https://t.me/oacastillol)
 - php
 - javascript
 - python
+- Ruby on Rails

@@ -19,7 +19,7 @@ Contacto: [Telegram](https://t.me/oacastillol)
 
 ### Lenguajes Usados
 
-- php
+- [![PHP from Packagist](https://img.shields.io/packagist/php-v/symfony/symfony.svg)]()
 - javascript
 - python
 - Ruby on Rails
